@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Nunes 
-- 👀 I’m interested in HTML,Javascript, CSS
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Back End...
+- 🌱 I’m currently learning Python and Django..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter: @nunesandrey11
 
